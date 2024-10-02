@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning algorithms and cloud data solutions.**
 
-- or Connect me on LinkedIn at [https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/](https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/)
+-  Connect me on LinkedIn at [https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/](https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/)
 
 - Certification: AWS DATA ENGINEER ASSOCIATE [https://www.credly.com/badges/357a7059-91b2-451e-a517-0a02693a9add](https://www.credly.com/badges/357a7059-91b2-451e-a517-0a02693a9add)
 
