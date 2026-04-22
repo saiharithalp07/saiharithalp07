@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Data Engineer Projects.
 - 🌱 I’m currently learning Machine Learning Algorithms and Cloud Data Solutions.
 
-- Connect me on LinkedIn at [https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/](https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/)
+- Connect me on LinkedIn at [[https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/](https://www.linkedin.com/in/lakshmi-haritha-pedabaliyarasimhuni?utm_source=share_via&utm_content=profile&utm_medium=member_ios)]([https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/](https://www.linkedin.com/in/lakshmi-haritha-pedabaliyarasimhuni?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 
 - Certification: AWS DATA ENGINEER ASSOCIATE [https://www.credly.com/badges/357a7059-91b2-451e-a517-0a02693a9add](https://www.credly.com/badges/357a7059-91b2-451e-a517-0a02693a9add)
 - Certification: AZURE DATA ENGINEER ASSOCIATE 
