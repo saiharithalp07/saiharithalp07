@@ -5,14 +5,14 @@
 - 🔭 I’m currently working on Data Engineer Projects.
 - 🌱 I’m currently learning Machine Learning Algorithms and Cloud Data Solutions.
 
-- Connect me on LinkedIn at [[https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/]utm_source=share_via&utm_content=profile&utm_medium=member_ios)]([https://www.linkedin.com/in/sai-haritha-lakshmi-pedabaliyarasimhuni/](https://www.linkedin.com/in/lakshmi-haritha-pedabaliyarasimhuni?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/lakshmi-haritha-pedabaliyarasimhuni?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 - Certification: AWS DATA ENGINEER ASSOCIATE [https://www.credly.com/badges/357a7059-91b2-451e-a517-0a02693a9add](https://www.credly.com/badges/357a7059-91b2-451e-a517-0a02693a9add)
 - Certification: AZURE DATA ENGINEER ASSOCIATE 
 
 - 💬 Ask me about **data warehousing strategies and ETL processes.**
 
-- 📫 How to reach me **saiharithalp07@gmail.com**
+- 📫 How to reach me **psaiharithalakshmi07@gmail.com**
 
 - ⚡ Fun fact **I built an end-to-end data pipeline that integrates real-time streaming data, reducing processing time by 50%. This project also involved implementing a machine learning model to enhance data quality, resulting in a 30% increase in accuracy. The entire system was deployed on a cloud platform, showcasing efficient resource management.**
 
